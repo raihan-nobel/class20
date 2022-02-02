@@ -1,0 +1,24 @@
+.navbar-brand img {
+    max-width: 50px;
+}
+.navbar .navbar-expand-lg {
+    background-color: #e3f2fd;
+}
+.raihan{
+   background: #e3f2fd;
+}
+.dark{
+    background: #ddd;
+    padding: 8px 10px;
+}
+a{
+    text-decoration: none;
+}
+.bottun{
+    color: #0d7ffe;
+    font-size: 20px;
+    border: 1px solid #ddd;
+}
+.bottun:hover{
+    text-decoration: underline;
+}
